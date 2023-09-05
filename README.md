@@ -1,1 +1,1 @@
-# AI_voice_assintant
+# AI_voice_assistant
